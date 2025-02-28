@@ -1,0 +1,3 @@
+[submodule "my-first-repo"]
+	path = my-first-repo
+	url = https://github.com/prenisa/my-first-repo.git
